@@ -135,10 +135,21 @@ python run_qa.py \
 
 If you use this for your work, please consider citing our paper, as well as the AdapterHub.
 ```
-@inproceedings{liu-etal-2023-fun,
-    title = {Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing},
-    author = "Chen Cecilia Liu and Jonas Pfeiffer and Ivan Vuli\'{c} and Iryna Gurevych"
-    publisher = {arXiv},
-    year = {2023},
-}
+@inproceedings{liu-etal-2024-fun,
+    title = "{FUN} with Fisher: Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing",
+    author = "Liu, Chen  and
+      Pfeiffer, Jonas  and
+      Vuli{\'c}, Ivan  and
+      Gurevych, Iryna",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.111/",
+    doi = "10.18653/v1/2024.naacl-long.111",
+    pages = "1998--2015"}
 ```
